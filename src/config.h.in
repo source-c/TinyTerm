@@ -1,0 +1,10 @@
+/* 
+ * config.h
+ *
+ */
+ 
+ #define TINYTERM_ICON_PATH "${CMAKE_INSTALL_PREFIX}/share/pixmaps/tinyterm.png"
+ #define TINYTERM_SCROLLBACK_LINES ${SCROLLBACK_LINES}
+ #define TINYTERM_WORD_CHARS "${WORD_CHARS}"
+ #define TINYTERM_SCROLLBAR ${SCROLLBAR}
+ 
