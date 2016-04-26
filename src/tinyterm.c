@@ -1,7 +1,7 @@
 /* tinyterm.c
  *
  * Copyright (C) 2013 MelKori
- * Originally take from Sebastian Linke's tinyterm
+ * Originally taken from Sebastian Linke's tinyterm
  *
  * This is free software; you can redistribute it and/or modify it under
  * the terms of the GNU Library General Public License as published by
